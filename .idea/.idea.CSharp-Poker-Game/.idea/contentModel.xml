@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\haidu\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\haidu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\haidu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CSharp-Poker-Game.-257979647.00" t="ExcludeRecursive" />
+    <e p="C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master" t="IncludeFlat">
+      <e p="CSharp-Poker-Game.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

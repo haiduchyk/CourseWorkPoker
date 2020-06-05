@@ -1,0 +1,5 @@
+C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\haidu\Downloads\CSharp-Poker-Game-master\CSharp-Poker-Game-master\CardLibrary\obj\Debug\CardLibrary.pdb

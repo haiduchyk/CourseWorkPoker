@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1a1eaaf-b6c3-4d96-b8c6-70bee262909c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/PlayerFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/Dealer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/84/a5cd4fc5/Decimal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/DealerFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/House.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/PlayerType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/IPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/41/c89e55b8/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/PokerGameFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Properties/Resources.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/PokerTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Menus/MainMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Menus/MenuItems/ExitGameItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Menus/MenuItems/StartGameItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/Menus/MenuItems/IMenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/PokerHandExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGameConsole/PokerProgram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/PokerHandEvaluator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/33/8419df87/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/PokerHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/f6/d83eea25/IComparable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/Suit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/Deck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/Rank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/71/db4ce165/IEquatable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/SuitExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/05/6f0effd1/Enum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary/Hand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/8d/89d2faf6/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/3e/9164d34d/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/5c/6a444032/IEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary.UnitTests/DealerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary.UnitTests/ComputerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary.UnitTests/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/82/e182883c/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/8e/fcaf441a/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary.UnitTests/PlayerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary.UnitTests/PlayerFactoryTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary.UnitTests/DeckTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary.UnitTests/HandTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardLibrary.UnitTests/PokerHandEvaluatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/PokerGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/a3/bc493f6a/__DynamicallyInvokableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/GraphicsHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/IDealer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PokerSessionLibrary/Computer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CardLibrary/SuitExtensions.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/Deck.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/Card.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/PokerHand.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/PokerHandExtensions.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary.UnitTests/DeckTests.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/PokerProgram.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Resources/TutorialShowdownContent.txt" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Properties/Resources.Designer.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Properties/Resources.resx" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Menus/TutorialMenu.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Resources/MainMenuContent.txt" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Menus/MenuItems/StartGameItem.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Menus/MenuItems/ExitGameItem.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/IDealer.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/House.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/PlayerFactory.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary.UnitTests/ComputerTests.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/DealerFactory.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/IPlayer.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/Computer.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/PlayerType.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/PokerTable.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/Player.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/Suit.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/Rank.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/PokerHandEvaluator.cs" />
+        <option value="$PROJECT_DIR$/CardLibrary/Hand.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary.UnitTests/DealerTests.cs" />
+        <option value="$PROJECT_DIR$/CardGameConsole/Menus/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/PokerGame.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/Dealer.cs" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/PokerSessionLibrary.csproj" />
+        <option value="$PROJECT_DIR$/PokerSessionLibrary/GraphicsHelper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cqwKhY3JA1081hFmJKrC3WbKRw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CardGameConsole" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CardGameConsole/CardGameConsole.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a1eaaf-b6c3-4d96-b8c6-70bee262909c" name="Default Changelist" comment="" />
+      <created>1591269368998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591269368998</updated>
+      <workItem from="1591269370553" duration="31845000" />
+      <workItem from="1591317754602" duration="169000" />
+      <workItem from="1591317954954" duration="485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1637" height="734" key="GridCell.Tab.0.bottom" timestamp="1591317727212">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1877" height="648" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591287587341" />
+    <state width="1637" height="734" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591317727212" />
+    <state width="1637" height="734" key="GridCell.Tab.0.center" timestamp="1591317727212">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1877" height="648" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591287587341" />
+    <state width="1637" height="734" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591317727212" />
+    <state width="1637" height="734" key="GridCell.Tab.0.left" timestamp="1591317727212">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1877" height="648" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591287587340" />
+    <state width="1637" height="734" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591317727212" />
+    <state width="1637" height="734" key="GridCell.Tab.0.right" timestamp="1591317727212">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1877" height="648" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591287587341" />
+    <state width="1637" height="734" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591317727212" />
+    <state x="755" y="174" key="RiderGenerateDialog" timestamp="1591287448193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="174" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591287448193" />
+    <state x="2304" y="244" width="737" height="606" key="find.popup" timestamp="1591317875304">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="614" y="252" width="737" height="606" key="find.popup/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591283551541" />
+    <state x="2304" y="244" width="737" height="606" key="find.popup/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591317875304" />
+    <state x="2465" y="219" width="672" height="659" key="search.everywhere.popup" timestamp="1591316088220">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1591280925147" />
+    <state x="2465" y="219" width="672" height="659" key="search.everywhere.popup/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1591316088220" />
+  </component>
+</project>
